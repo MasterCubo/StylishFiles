@@ -1,0 +1,100 @@
+
+
+body, html{
+  color: #ccc;
+  background-color: #f00;
+  this: is stylish;
+}
+
+
+.toolbar.left {
+  background-color: #333;
+  border: 2px solid #666;
+}
+
+.navbar {
+  background-color: #444;
+}
+
+.exercise-editor {
+  background-color: #222;
+}
+
+.ace-editor-container {
+  border-left: 2px solid #666;
+  border-right: 2px solid #666;
+  
+}
+
+.text-editor-menu-bar {
+  background-color: #616ea8;
+  color: #fff;
+  border-left: 2px solid #666;
+  border-right: 2px solid #666;
+}
+
+.cs3-prompt {
+  background: #222;
+}
+
+.cs3-prompt.with-editor {
+  border: 2px solid #666;
+}
+
+#feedback-checklist-console-tabs .nav-tabs {
+  border: 2px solid #666;
+  background-color: #222;
+}
+
+.exercise-editor-container-left {
+  background-color: #333;
+}
+
+#feedback-checklist-console-tabs .nav-tabs li.active a {
+  background-color: #000;
+}
+
+#feedback-checklist-console-tabs .nav-tabs li a {
+  background-color: #111;
+}
+
+.console-output {
+  background-color: #222;
+  border: 2px solid #666;
+  color: #ccc;
+}
+
+input {
+  background-color: #111;
+}
+
+.dynamic-html code {
+  background: #444;
+  color: #ccc;
+}
+
+#avatar-dropdown {
+  background-color: #333;
+}
+
+.ace-xcode {
+	background-color: #333;
+  color: #ddd;
+}
+
+
+
+.ace-editor-container .ace-xcode .ace_gutter {
+	border-right-width: 2px;
+  border-right-style: solid; 
+  border-right-color: #666;
+   background-color: #222;
+}
+
+.ace_gutter-cell {
+  background-color: #333;
+}
+
+.ace-xcode .ace_support.ace_function {
+  color: #a747ff;
+}
