@@ -152,3 +152,56 @@ input {
 .hljs {
   color: #ccc;
 }
+
+.user-info {
+  background-color: #333;
+  border-right: 1px solid #666;
+}
+.react-autosuggest__input {
+  border: 1px solid #666;
+  background-color: #222;
+}
+.user-info>div {
+  background-color: #222;
+}
+.unit-container{
+background-color: #333;
+}
+
+.unit-panel {
+  border: 2px solid #666;
+}
+
+.topic-trigger {
+  background-color: #333;
+  color: #ccc;
+}
+
+.depth-1{
+  border-top: 1px solid #666;
+}
+
+.collection-summary-points {
+  color: #ccc;
+}
+
+.exercise-collection-container.cs3 {
+  background-color: #222;
+  border: 2px solid #666;
+}
+.syllabus-inner {
+  background-color: #444;
+}
+.unit-trigger {
+  background-color: #222;
+  border: 2px solid #666;
+}
+
+.page-footer {
+  background-color: #222;
+  border-top: 1px solid #666;
+}
+
+.syllabus-scroll{
+  background-color: #444;
+}
