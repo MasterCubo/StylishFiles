@@ -97,7 +97,7 @@ input {
 
 
 .notes-page-container {
-  background-color: #666;
+  background-color: #222;
 }
 
 .notes-page-inner {
@@ -118,4 +118,8 @@ input {
 
 .notes-page-inner .highlight {
   background-color: #222;
+}
+
+.notes-checkpoint.active {
+  background-color: #222
 }
