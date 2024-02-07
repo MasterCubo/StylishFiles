@@ -123,3 +123,32 @@ input {
 .notes-checkpoint.active {
   background-color: #222
 }
+.test-case-panel .col-sm-6.checklist-left {
+  background-color: #333;
+  border-right: 2px solid #666;
+}
+
+.test-case-panel {
+  border: 2px solid #666;
+  color: #ccc;
+}
+
+.checklist-items li.title {
+  border-bottom: 2px solid #666;
+}
+
+.test-case-panel .col-sm-6 {
+  background-color: #333;
+}
+
+.basic-test-case .trigger {
+  background-color: #333;
+  border: 1px solid #666;
+}
+
+.basic-test-case .trigger pre {
+  background-color: #222;
+}
+.hljs {
+  color: #ccc;
+}
