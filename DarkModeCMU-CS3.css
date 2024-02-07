@@ -74,7 +74,7 @@ input {
 }
 
 #avatar-dropdown {
-  background-color: #333;
+  background-color: #333!important;
 }
 
 .ace-xcode {
@@ -95,6 +95,23 @@ input {
   background-color: #333;
 }
 
-.ace-xcode .ace_support.ace_function {
-  color: #a747ff;
+
+.notes-page-container {
+  background-color: #666;
+}
+
+.notes-page-inner {
+  background-color: #333;}
+
+.notes-page-with-nav ul.scrollspy-nav {
+  background-color: #333;
+  border-right-color: #666;
+}
+
+.notes-checkpoint {
+  background-color: #444;
+}
+
+.notes-exercise-container {
+  background-color: #222;
 }
